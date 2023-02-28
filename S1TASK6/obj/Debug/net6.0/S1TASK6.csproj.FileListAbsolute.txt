@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\bin\Debug\net6.0\S1TASK6.exe
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\bin\Debug\net6.0\S1TASK6.deps.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\bin\Debug\net6.0\S1TASK6.runtimeconfig.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\bin\Debug\net6.0\S1TASK6.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\bin\Debug\net6.0\S1TASK6.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.AssemblyInfo.cs
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\refint\S1TASK6.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\S1TASK6.genruntimeconfig.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S1TASK6\obj\Debug\net6.0\ref\S1TASK6.dll
