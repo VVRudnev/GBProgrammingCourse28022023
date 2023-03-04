@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.AssemblyInfo.cs
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\bin\Debug\net6.0\S3TASK19.exe
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\bin\Debug\net6.0\S3TASK19.deps.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\bin\Debug\net6.0\S3TASK19.runtimeconfig.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\bin\Debug\net6.0\S3TASK19.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\bin\Debug\net6.0\S3TASK19.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\refint\S3TASK19.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\S3TASK19.genruntimeconfig.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\S3TASK19\obj\Debug\net6.0\ref\S3TASK19.dll
