@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\bin\Debug\net6.0\2STASK15.exe
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\bin\Debug\net6.0\2STASK15.deps.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\bin\Debug\net6.0\2STASK15.runtimeconfig.json
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\bin\Debug\net6.0\2STASK15.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\bin\Debug\net6.0\2STASK15.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.AssemblyInfo.cs
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\refint\2STASK15.dll
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.pdb
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\2STASK15.genruntimeconfig.cache
+C:\Users\user\Desktop\ProgrammingCourse\Seminars\2STASK15\obj\Debug\net6.0\ref\2STASK15.dll
